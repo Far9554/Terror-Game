@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1ca63a91b17724bbd99c8fa67e0180, type: 3}
+  m_Name: Metal Palete
+  m_EditorClassIdentifier: 
+  array:
+  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: 3b0cb8ccf53adf34c9ec932f2db00097, type: 2}
+  - {fileID: 2100000, guid: a15304dfb5aae9b49a8018b92f2f4e6a, type: 2}
+  - {fileID: 2100000, guid: c0a184ca56ed149418c0bff229aa6414, type: 2}
+  - {fileID: 2100000, guid: 68562c6ed20ac92479e9499f82649a43, type: 2}
+  - {fileID: 2100000, guid: 0b269fe7baf1b19408d300fd0d210f52, type: 2}
+  - {fileID: 2100000, guid: b3c401d52cd977e498e652657a556860, type: 2}
+  - {fileID: 2100000, guid: 97b3ed3aaa6e6ab4b8693a49c98be45a, type: 2}
+  - {fileID: 2100000, guid: 7a29b769014d2514b815e8247ca3bf85, type: 2}
+  - {fileID: 2100000, guid: 9ae1138ac49448a4d96c223e6cbac0b5, type: 2}

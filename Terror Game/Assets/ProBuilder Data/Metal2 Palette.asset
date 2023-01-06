@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1ca63a91b17724bbd99c8fa67e0180, type: 3}
+  m_Name: Metal2 Palette
+  m_EditorClassIdentifier: 
+  array:
+  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: eaa256be0ce7bc84c992e3cab6b2952d, type: 2}
+  - {fileID: 2100000, guid: 22523b4b8642d6a4aabd7cf2aec7c0da, type: 2}
+  - {fileID: 2100000, guid: 6f57f4c4edb8aa34eb4ce73942ed923a, type: 2}
+  - {fileID: 2100000, guid: 57137b6adb0f4d146b4a1c72d771293e, type: 2}
+  - {fileID: 2100000, guid: 2943951a98c66934da94da28cb19c7a6, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
