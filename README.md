@@ -1,5 +1,9 @@
 # Terror Game
-<p align="left"><img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"><img src="[https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://img.shields.io/twitter/follow/far9554?style=social)"></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/far9554?style=social">
+</p>
+
 
 This is a project that I started in October 2022, the idea was to create a horror game inspired by SOMA, with a procedural generation system in the bases. All 3d models and textures were created by me. The procedural generation system is a modification of the classic dungeon procedural generation system with slight modifications.
 
