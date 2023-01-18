@@ -6,6 +6,8 @@
 
 
 This is a project that I started in October 2022, the idea was to create a horror game inspired by SOMA, with a procedural generation system in the bases. All 3d models and textures were created by me. The procedural generation system is a modification of the classic dungeon procedural generation system with slight modifications.
+<br>
+All the models and textures were made with Voxels in MagicaVoxel.
 
 Here there is a little visualization of the generation of the bases:
 https://twitter.com/far9554/status/1573784018973237248
